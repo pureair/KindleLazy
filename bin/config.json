@@ -1,7 +1,7 @@
 {
    "key_brightness_down" : [ 114 ],
    "key_brightness_up" : [ 115 ],
-   "key_next_page" : [ 104, 103, 106 ],
-   "key_prev_page" : [ 109, 108, 105 ],
+   "key_next_page" : [ 57, 96, 109, 108, 106 ],
+   "key_prev_page" : [ 104, 78, 103, 105 ],
    "key_wake" : [ 15 ]
 }
