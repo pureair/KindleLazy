@@ -1,4 +1,14 @@
-KindleLazy 0.9 - cearp
+# Modifications
+added more keys so you can use a keybord / Num Pad / Presentation Remote natively.
+```
+"key_next_page" : [ 57, 96, 109, 108, 106 ],
+// 57 - Space, 96 - KPEnter, 109 - PageDown, 108 - Down, 106 - Right
+"key_prev_page" : [ 104, 78, 103, 105 ],
+// 104 - PageUp, 78 - KPPlus, 103 - Up, 105 - Left
+```
+(KP means Num Pad)
+
+# KindleLazy 0.9 - cearp
 
 Only tested on PW3, nothing else!
 
